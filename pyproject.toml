@@ -1,11 +1,12 @@
 [tool.poetry]
-name = "LULC3"
+name = "Streamlit_Classifer"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["diane.bailleul.pro@gmail.com"]
 
 [tool.poetry.dependencies]
-#python = "3.10.15"
+#python = "3.10.12"
+python = "3.10.15"
 matplotlib = "*"
 pandas = "*"
 numpy = "*"
