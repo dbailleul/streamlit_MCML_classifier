@@ -1,3 +1,4 @@
 python3-opencv
-gdal-bin 
+gdal-bin
+libgdal-dev 
 python3-gdal
