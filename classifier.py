@@ -108,4 +108,8 @@ _, inv_mapping = create_tag_mapping(mapping_csv)
 c2.header('Output')
 c2.subheader('Predicted class :')
 if upload is not None:
-    c2.write(run_example(inv_mapping))
+    lst = run_example(inv_mapping)
+    s = ''
+    for i in lst:
+        s += "- " + i + "\n"
+    c2.markdown(s)
