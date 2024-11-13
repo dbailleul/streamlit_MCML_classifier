@@ -1,1 +1,1 @@
-libgdal-dev>3.10
+libgdal-dev>=3.10
