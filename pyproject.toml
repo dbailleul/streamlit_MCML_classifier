@@ -2,7 +2,7 @@
 name = "Streamlit_Classifer"
 version = "0.1.0"
 description = ""
-authors = ["diane.bailleul.pro@gmail.com"]
+authors = ["Diane Bailleul <diane.bailleul.pro@gmail.com>"]
 
 [tool.poetry.dependencies]
 #python = "3.10.12"
