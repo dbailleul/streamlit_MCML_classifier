@@ -15,6 +15,7 @@ import dill
 st.markdown('<h1 style="color:black;">Forest Amazon Image Classifier</h1>', unsafe_allow_html=True)
 st.markdown('<h2 style="color:gray;">The image classification model is able to recognize the following categories:</h2>', unsafe_allow_html=True)
 st.markdown('<h3 style="color:gray;">17 classes of atmospheric conditions, common and rare Land Uses and Land Covers</h3>', unsafe_allow_html=True)
+st.image("classes.jpg")
 
 # Background image
 
