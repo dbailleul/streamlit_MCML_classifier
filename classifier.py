@@ -66,7 +66,7 @@ with open('lulc3_model.pkl', 'rb') as f:
     inv_mapping = dill.load(f)
     mapping_csv = dill.load(f)
 
-model = load_model('../../../../../../../mnt/d/GIS/Satellites/LULC3_models/final_model.h5')
+model = load_model('final_model.h5')
 
 # Make a prediction
 
