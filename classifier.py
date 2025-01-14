@@ -107,7 +107,7 @@ _, inv_mapping = create_tag_mapping(mapping_csv)
 # Prediction
 
 c2.header('Output')
-c2.subheader('Predicted class :')
+c2.subheader('Predicted class(es):')
 if upload is not None:
     lst = run_example(inv_mapping)
     s = ''
