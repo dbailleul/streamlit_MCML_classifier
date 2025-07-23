@@ -1,6 +1,6 @@
 # Multi-Class Multi-Level Classification Model on Streamlit
 
-![image](https://github.com/dbailleul/streamlit_MCML_classifier/streamlit_MCML_demo.jpg)
+![screenshot of the streamlit application with the photos of the 17 classes and the submit button](https://github.com/dbailleul/streamlit_MCML_classifier/streamlit_MCML_demo.jpg)
 
 This is the free version of an demo I've made at work, with:
   *40,779 images from [Planet dataset](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space) from Kaggle competition in 2017
